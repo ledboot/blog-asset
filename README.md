@@ -1,1 +1,1 @@
-# blog-img
+# blog-asset
